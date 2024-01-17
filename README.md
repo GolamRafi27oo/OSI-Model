@@ -5,7 +5,6 @@ OSI model developed by the international organization for standardization (ISO) 
 
 **OSI model based on 7 layer:**
 
-![alt text](./image/OSILayer.png)
 ![](Image/OSILayer.png)
 
 ## 1. PHYSICAL LAYER 

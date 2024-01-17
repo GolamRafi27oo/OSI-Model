@@ -5,7 +5,7 @@ OSI model developed by the international organization for standardization (ISO) 
 
 **OSI model based on 7 layer:**
 
-![alt text](image/OSILayer.png)
+![alt text](/image/OSILayer.png)
 
 ## 1. PHYSICAL LAYER 
 Physical Layer converts the binary sequence into a signal and transmits to our local network. It can be an electrical signal in case of copper wire or LAN cable, Light signal in case of optical signal and radio signal in case of Air.
